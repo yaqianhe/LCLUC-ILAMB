@@ -1,0 +1,192 @@
+[INFO][0][<module>] Linux polaris.dartmouth.edu 3.10.0-1127.10.1.el7.x86_64 #1 SMP Tue May 26 15:05:43 EDT 2020 x86_64
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/ILAMB (2.5)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/numpy (1.19.2)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/matplotlib (3.3.2)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/netCDF4 (1.5.4)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/cf_units (2.1.4)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/sympy (1.6.2)
+[INFO][0][<module>] /dartfs-hpc/rc/home/3/f003hw3/.conda/envs/ilamb/lib/python3.8/site-packages/mpi4py (3.0.3)
+[INFO][0][<module>] 2020-12-07 13:14:21.961746
+[INFO][0][confront][GrossPrimaryProductivity/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][GrossPrimaryProductivity/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][GrossPrimaryProductivity/FLUXCOM][CLM50luh] Spatial data was clipped from the reference:  before: [408 360 720] after: [408 160 176]
+[INFO][0][confront][GrossPrimaryProductivity/FLUXCOM][CLM50luh] Success
+[INFO][0][MakeComparable][GrossPrimaryProductivity/FLUXCOM][CLM50RS] Spatial data was clipped from the reference:  before: [408 360 720] after: [408 160 176]
+[INFO][0][confront][GrossPrimaryProductivity/FLUXCOM][CLM50RS] Success
+[INFO][0][MakeComparable][LeafAreaIndex/AVHRR][CLM50luh] Spatial data was clipped from the reference:  before: [348 360 720] after: [348 160 176]
+[INFO][0][confront][LeafAreaIndex/AVHRR][CLM50luh] Success
+[INFO][0][MakeComparable][LeafAreaIndex/AVHRR][CLM50RS] Spatial data was clipped from the reference:  before: [348 360 720] after: [348 160 176]
+[INFO][0][confront][LeafAreaIndex/AVHRR][CLM50RS] Success
+[INFO][0][MakeComparable][LeafAreaIndex/AVH15C1][CLM50luh] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][LeafAreaIndex/AVH15C1][CLM50luh] Success
+[INFO][0][MakeComparable][LeafAreaIndex/AVH15C1][CLM50RS] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][LeafAreaIndex/AVH15C1][CLM50RS] Success
+[INFO][0][MakeComparable][LeafAreaIndex/MODIS][CLM50luh] Spatial data was clipped from the reference:  before: [ 72 360 720] after: [ 72 160 176]
+[INFO][0][confront][LeafAreaIndex/MODIS][CLM50luh] Success
+[INFO][0][MakeComparable][LeafAreaIndex/MODIS][CLM50RS] Spatial data was clipped from the reference:  before: [ 72 360 720] after: [ 72 160 176]
+[INFO][0][confront][LeafAreaIndex/MODIS][CLM50RS] Success
+[INFO][0][MakeComparable][Evapotranspiration/GLEAMv3.3a][CLM50luh] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][Evapotranspiration/GLEAMv3.3a][CLM50luh] Success
+[INFO][0][MakeComparable][Evapotranspiration/GLEAMv3.3a][CLM50RS] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][Evapotranspiration/GLEAMv3.3a][CLM50RS] Success
+[INFO][0][MakeComparable][Evapotranspiration/MODIS][CLM50luh] Spatial data was clipped from the reference:  before: [168 360 720] after: [168 160 176]
+[INFO][0][confront][Evapotranspiration/MODIS][CLM50luh] Success
+[INFO][0][MakeComparable][Evapotranspiration/MODIS][CLM50RS] Spatial data was clipped from the reference:  before: [168 360 720] after: [168 160 176]
+[INFO][0][confront][Evapotranspiration/MODIS][CLM50RS] Success
+[INFO][0][MakeComparable][Evapotranspiration/MOD16A2][CLM50luh] Spatial data was clipped from the reference:  before: [180 360 720] after: [180 160 176]
+[INFO][0][confront][Evapotranspiration/MOD16A2][CLM50luh] Success
+[INFO][0][MakeComparable][Evapotranspiration/MOD16A2][CLM50RS] Spatial data was clipped from the reference:  before: [180 360 720] after: [180 160 176]
+[INFO][0][confront][Evapotranspiration/MOD16A2][CLM50RS] Success
+[INFO][0][confront][LatentHeat/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][LatentHeat/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][LatentHeat/FLUXCOM][CLM50luh] Spatial data was clipped from the reference:  before: [420 360 720] after: [420 160 176]
+[INFO][0][confront][LatentHeat/FLUXCOM][CLM50luh] Success
+[INFO][0][MakeComparable][LatentHeat/FLUXCOM][CLM50RS] Spatial data was clipped from the reference:  before: [420 360 720] after: [420 160 176]
+[INFO][0][confront][LatentHeat/FLUXCOM][CLM50RS] Success
+[INFO][0][MakeComparable][LatentHeat/DOLCE][CLM50luh] Spatial data was clipped from the reference:  before: [120 360 720] after: [120 160 176]
+[INFO][0][confront][LatentHeat/DOLCE][CLM50luh] Success
+[INFO][0][MakeComparable][LatentHeat/DOLCE][CLM50RS] Spatial data was clipped from the reference:  before: [120 360 720] after: [120 160 176]
+[INFO][0][confront][LatentHeat/DOLCE][CLM50RS] Success
+[INFO][0][MakeComparable][Runoff/LORA][CLM50luh] Spatial data was clipped from the reference:  before: [396 360 720] after: [396 160 176]
+[INFO][0][confront][Runoff/LORA][CLM50luh] Success
+[INFO][0][MakeComparable][Runoff/LORA][CLM50RS] Spatial data was clipped from the reference:  before: [396 360 720] after: [396 160 176]
+[INFO][0][confront][Runoff/LORA][CLM50RS] Success
+[INFO][0][confront][SensibleHeat/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][SensibleHeat/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][SensibleHeat/FLUXCOM][CLM50luh] Spatial data was clipped from the reference:  before: [420 360 720] after: [420 160 176]
+[INFO][0][confront][SensibleHeat/FLUXCOM][CLM50luh] Success
+[INFO][0][MakeComparable][SensibleHeat/FLUXCOM][CLM50RS] Spatial data was clipped from the reference:  before: [420 360 720] after: [420 160 176]
+[INFO][0][confront][SensibleHeat/FLUXCOM][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetSWRadiation/CERESed4.1][CLM50luh] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetSWRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetSWRadiation/CERESed4.1][CLM50RS] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetSWRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][confront][SurfaceNetSWRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][SurfaceNetSWRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetSWRadiation/GEWEX.SRB][CLM50luh] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetSWRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetSWRadiation/GEWEX.SRB][CLM50RS] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetSWRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][confront][SurfaceNetSWRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][confront][SurfaceNetSWRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetLWRadiation/CERESed4.1][CLM50luh] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetLWRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetLWRadiation/CERESed4.1][CLM50RS] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetLWRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][confront][SurfaceNetLWRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][SurfaceNetLWRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetLWRadiation/GEWEX.SRB][CLM50luh] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetLWRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetLWRadiation/GEWEX.SRB][CLM50RS] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetLWRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][confront][SurfaceNetLWRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][confront][SurfaceNetLWRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetRadiation/CERESed4.1][CLM50luh] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetRadiation/CERESed4.1][CLM50RS] Spatial data was clipped from the reference:  before: [228 360 720] after: [228 160 176]
+[INFO][0][confront][SurfaceNetRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][confront][SurfaceNetRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][SurfaceNetRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceNetRadiation/GEWEX.SRB][CLM50luh] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceNetRadiation/GEWEX.SRB][CLM50RS] Spatial data was clipped from the reference:  before: [288 360 720] after: [288 160 176]
+[INFO][0][confront][SurfaceNetRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][confront][SurfaceNetRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][confront][SurfaceNetRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceAirTemperature/CRU4.02][CLM50luh] Spatial data was clipped from the reference:  before: [456 360 720] after: [456 160 176]
+[INFO][0][confront][SurfaceAirTemperature/CRU4.02][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceAirTemperature/CRU4.02][CLM50RS] Spatial data was clipped from the reference:  before: [456 360 720] after: [456 160 176]
+[INFO][0][confront][SurfaceAirTemperature/CRU4.02][CLM50RS] Success
+[INFO][0][confront][SurfaceAirTemperature/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][SurfaceAirTemperature/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][Precipitation/CMAPv1904][CLM50luh] Spatial data was clipped from the reference:  before: [480 360 720] after: [480 160 176]
+[INFO][0][confront][Precipitation/CMAPv1904][CLM50luh] Success
+[INFO][0][MakeComparable][Precipitation/CMAPv1904][CLM50RS] Spatial data was clipped from the reference:  before: [480 360 720] after: [480 160 176]
+[INFO][0][confront][Precipitation/CMAPv1904][CLM50RS] Success
+[INFO][0][confront][Precipitation/FLUXNET2015][CLM50luh] Success
+[INFO][0][confront][Precipitation/FLUXNET2015][CLM50RS] Success
+[INFO][0][MakeComparable][Precipitation/GPCCv2018][CLM50luh] Spatial data was clipped from the reference:  before: [444 360 720] after: [444 160 176]
+[INFO][0][confront][Precipitation/GPCCv2018][CLM50luh] Success
+[INFO][0][MakeComparable][Precipitation/GPCCv2018][CLM50RS] Spatial data was clipped from the reference:  before: [444 360 720] after: [444 160 176]
+[INFO][0][confront][Precipitation/GPCCv2018][CLM50RS] Success
+[INFO][0][MakeComparable][Precipitation/GPCPv2.3][CLM50luh] Spatial data was clipped from the reference:  before: [480 360 720] after: [480 160 176]
+[INFO][0][confront][Precipitation/GPCPv2.3][CLM50luh] Success
+[INFO][0][MakeComparable][Precipitation/GPCPv2.3][CLM50RS] Spatial data was clipped from the reference:  before: [480 360 720] after: [480 160 176]
+[INFO][0][confront][Precipitation/GPCPv2.3][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceRelativeHumidity/ERA5][CLM50luh] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][SurfaceRelativeHumidity/ERA5][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceRelativeHumidity/ERA5][CLM50RS] Spatial data was clipped from the reference:  before: [468 360 720] after: [468 160 176]
+[INFO][0][confront][SurfaceRelativeHumidity/ERA5][CLM50RS] Success
+[INFO][0][MakeComparable][SurfaceRelativeHumidity/CRU4.02][CLM50luh] Spatial data was clipped from the reference:  before: [456 360 720] after: [456 160 176]
+[INFO][0][confront][SurfaceRelativeHumidity/CRU4.02][CLM50luh] Success
+[INFO][0][MakeComparable][SurfaceRelativeHumidity/CRU4.02][CLM50RS] Spatial data was clipped from the reference:  before: [456 360 720] after: [456 160 176]
+[INFO][0][confront][SurfaceRelativeHumidity/CRU4.02][CLM50RS] Success
+[INFO][0][modelPlots][GrossPrimaryProductivity/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][GrossPrimaryProductivity/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][GrossPrimaryProductivity/FLUXCOM][CLM50luh] Success
+[INFO][0][modelPlots][GrossPrimaryProductivity/FLUXCOM][CLM50RS] Success
+[INFO][0][modelPlots][LeafAreaIndex/AVHRR][CLM50luh] Success
+[INFO][0][modelPlots][LeafAreaIndex/AVHRR][CLM50RS] Success
+[INFO][0][modelPlots][LeafAreaIndex/AVH15C1][CLM50luh] Success
+[INFO][0][modelPlots][LeafAreaIndex/AVH15C1][CLM50RS] Success
+[INFO][0][modelPlots][LeafAreaIndex/MODIS][CLM50luh] Success
+[INFO][0][modelPlots][LeafAreaIndex/MODIS][CLM50RS] Success
+[INFO][0][modelPlots][Evapotranspiration/GLEAMv3.3a][CLM50luh] Success
+[INFO][0][modelPlots][Evapotranspiration/GLEAMv3.3a][CLM50RS] Success
+[INFO][0][modelPlots][Evapotranspiration/MODIS][CLM50luh] Success
+[INFO][0][modelPlots][Evapotranspiration/MODIS][CLM50RS] Success
+[INFO][0][modelPlots][Evapotranspiration/MOD16A2][CLM50luh] Success
+[INFO][0][modelPlots][Evapotranspiration/MOD16A2][CLM50RS] Success
+[INFO][0][modelPlots][LatentHeat/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][LatentHeat/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][LatentHeat/FLUXCOM][CLM50luh] Success
+[INFO][0][modelPlots][LatentHeat/FLUXCOM][CLM50RS] Success
+[INFO][0][modelPlots][LatentHeat/DOLCE][CLM50luh] Success
+[INFO][0][modelPlots][LatentHeat/DOLCE][CLM50RS] Success
+[INFO][0][modelPlots][Runoff/LORA][CLM50luh] Success
+[INFO][0][modelPlots][Runoff/LORA][CLM50RS] Success
+[INFO][0][modelPlots][SensibleHeat/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][SensibleHeat/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][SensibleHeat/FLUXCOM][CLM50luh] Success
+[INFO][0][modelPlots][SensibleHeat/FLUXCOM][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetSWRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetLWRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/CERESed4.1][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/CERESed4.1][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/GEWEX.SRB][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/GEWEX.SRB][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/WRMC.BSRN][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceNetRadiation/WRMC.BSRN][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceAirTemperature/CRU4.02][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceAirTemperature/CRU4.02][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceAirTemperature/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceAirTemperature/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][Precipitation/CMAPv1904][CLM50luh] Success
+[INFO][0][modelPlots][Precipitation/CMAPv1904][CLM50RS] Success
+[INFO][0][modelPlots][Precipitation/FLUXNET2015][CLM50luh] Success
+[INFO][0][modelPlots][Precipitation/FLUXNET2015][CLM50RS] Success
+[INFO][0][modelPlots][Precipitation/GPCCv2018][CLM50luh] Success
+[INFO][0][modelPlots][Precipitation/GPCCv2018][CLM50RS] Success
+[INFO][0][modelPlots][Precipitation/GPCPv2.3][CLM50luh] Success
+[INFO][0][modelPlots][Precipitation/GPCPv2.3][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceRelativeHumidity/ERA5][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceRelativeHumidity/ERA5][CLM50RS] Success
+[INFO][0][modelPlots][SurfaceRelativeHumidity/CRU4.02][CLM50luh] Success
+[INFO][0][modelPlots][SurfaceRelativeHumidity/CRU4.02][CLM50RS] Success
+[INFO][0][<module>][total time] 46585.7 s
